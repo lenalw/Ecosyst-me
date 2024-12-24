@@ -1,7 +1,7 @@
 README - Projet Ecosystème
 
 Description :
-  Ce projet implémente un modèle d'écosystème dans lequel les proies et les prédateurs évoluent dans un environnement en utilisant des règles de déplacement, de reproduction et d'interaction. Les proies consomment de l'énergie provenant du monde (herbe), tandis que les prédateurs consomment les proies pour survivre.
+Ce projet implémente un modèle d'écosystème dans lequel les proies et les prédateurs évoluent dans un environnement en utilisant des règles de déplacement, de reproduction et d'interaction. Les proies consomment de l'énergie provenant du monde (herbe), tandis que les prédateurs consomment les proies pour survivre.
 
   Le code utilise un modèle simple basé sur des listes chaînées pour gérer les animaux et un tableau représentant l'environnement.
 
